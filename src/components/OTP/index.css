@@ -1,0 +1,13 @@
+.otpParent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 4px;
+}
+
+.otpParent input {
+    height: 40px;
+    width: 40px;
+    text-align: center;
+}
